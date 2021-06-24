@@ -26,6 +26,7 @@ header>ul {
 
 ul>li {
     display: flex;
+    margin: 0px 5px;
 }
 
 li>a {
